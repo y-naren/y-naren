@@ -3,7 +3,7 @@
 ## Hi visitor, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Narendra Yadav](https://y-naren.github.io)
 <br />
 
-![Author](https://img.shields.io/badge/author-y-naren-green)
+
 ![Last Commit](https://img.shields.io/github/last-commit/y-naren/y-naren.github.io)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=y-naren.y-naren) 
 ![Profile views](https://gpvc.arturio.dev/y-naren)
@@ -38,8 +38,8 @@
 </summary>
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=y-naren&repo=go-tutorial)](https://github.com/y-naren/golang-tutorial)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=y-naren&repo=net_banking)](https://github.com/y-naren/net_banking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=y-naren&repo=golangcrud)](https://github.com/y-naren/golangcrud)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=y-naren&repo=newwebapp)](https://github.com/y-naren/newwebapp)
 </details>
 
 ### GitHub Trophies
